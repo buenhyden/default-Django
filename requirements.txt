@@ -1,0 +1,15 @@
+Django
+environs
+mysqlclient
+redis
+psycopg2
+pymongo
+valkey
+kafka-python
+opensearch-dsl
+drf-yasg
+djangorestframework
+markdown
+django-filter
+django-cors-headers
+djangorestframework-simplejwt
